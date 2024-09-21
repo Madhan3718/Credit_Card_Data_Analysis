@@ -10,6 +10,6 @@ collections, respond to customer requests for help with proactive offers and ser
 ### DATA AVAILABLE -
 This book has the following sheets:
 
-# Customer Acquisition.csv: At the time of card issuing, company maintains the details of customers.
-# Spend.csv (Transaction data): Credit card spend for each customer
-# Repayment.csv: Credit card Payment done by customer
+ Customer Acquisition.csv: At the time of card issuing, company maintains the details of customers.
+ Spend.csv (Transaction data): Credit card spend for each customer
+ Repayment.csv: Credit card Payment done by customer
