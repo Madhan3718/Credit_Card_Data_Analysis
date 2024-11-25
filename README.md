@@ -1,4 +1,5 @@
-# Credit_Card_Data_Analysis
+# Credit_Card_CaseStudy
+
 
 ### BUSINESS PROBLEM:
 In order to effectively produce quality decisions in the modern credit card industry, knowledge 
